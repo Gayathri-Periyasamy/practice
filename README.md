@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gayathri-Periyasamy/practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Gayathri-Periyasamy/practice/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Gayathri-Periyasamy/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Geometry
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gayathri-Periyasamy/practice/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
