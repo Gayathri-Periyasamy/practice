@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Gayathri-Periyasamy/practice/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Gayathri-Periyasamy/practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0055-jump-game) |
+| [0238-product-of-array-except-self](https://github.com/Gayathri-Periyasamy/practice/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0055-jump-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Gayathri-Periyasamy/practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
