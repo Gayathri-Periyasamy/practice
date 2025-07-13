@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathri-Periyasamy/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Gayathri-Periyasamy/practice/tree/master/0238-product-of-array-except-self) |
 | [0890-lemonade-change](https://github.com/Gayathri-Periyasamy/practice/tree/master/0890-lemonade-change) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Hash Table
 |  |
 | ------- |
