@@ -187,4 +187,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Gayathri-Periyasamy/practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gayathri-Periyasamy/practice/tree/master/0342-power-of-four) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
