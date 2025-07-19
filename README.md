@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Gayathri-Periyasamy/practice/tree/master/0238-product-of-array-except-self) |
 | [0890-lemonade-change](https://github.com/Gayathri-Periyasamy/practice/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Gayathri-Periyasamy/practice/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Hash Table
 |  |
