@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Gayathri-Periyasamy/practice/tree/master/0238-product-of-array-except-self) |
 | [0890-lemonade-change](https://github.com/Gayathri-Periyasamy/practice/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Gayathri-Periyasamy/practice/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Gayathri-Periyasamy/practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathri-Periyasamy/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gayathri-Periyasamy/practice/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
