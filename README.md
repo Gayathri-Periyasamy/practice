@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gayathri-Periyasamy/practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2383-add-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Gayathri-Periyasamy/practice/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Gayathri-Periyasamy/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2752-sum-multiples](https://github.com/Gayathri-Periyasamy/practice/tree/master/2752-sum-multiples) |
