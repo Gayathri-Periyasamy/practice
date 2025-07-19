@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Gayathri-Periyasamy/practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0029-divide-two-integers) |
 | [0292-nim-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Gayathri-Periyasamy/practice/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0029-divide-two-integers) |
+| [0342-power-of-four](https://github.com/Gayathri-Periyasamy/practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Gayathri-Periyasamy/practice/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
