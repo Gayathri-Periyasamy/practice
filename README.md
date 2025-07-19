@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0434-number-of-segments-in-a-string) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [3396-valid-word](https://github.com/Gayathri-Periyasamy/practice/tree/master/3396-valid-word) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0029-divide-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [2491-smallest-even-multiple](https://github.com/Gayathri-Periyasamy/practice/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Gayathri-Periyasamy/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
 ## Greedy
 |  |
 | ------- |
