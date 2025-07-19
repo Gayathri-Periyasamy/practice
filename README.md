@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0434-number-of-segments-in-a-string) |
 | [3396-valid-word](https://github.com/Gayathri-Periyasamy/practice/tree/master/3396-valid-word) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Gayathri-Periyasamy/practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Gayathri-Periyasamy/practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0029-divide-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
 | [2491-smallest-even-multiple](https://github.com/Gayathri-Periyasamy/practice/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Gayathri-Periyasamy/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0029-divide-two-integers) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
