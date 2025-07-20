@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gayathri-Periyasamy/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gayathri-Periyasamy/practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Gayathri-Periyasamy/practice/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Gayathri-Periyasamy/practice/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Gayathri-Periyasamy/practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathri-Periyasamy/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0202-happy-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Gayathri-Periyasamy/practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Gayathri-Periyasamy/practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Gayathri-Periyasamy/practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gayathri-Periyasamy/practice/tree/master/0342-power-of-four) |
