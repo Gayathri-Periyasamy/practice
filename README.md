@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathri-Periyasamy/practice/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Gayathri-Periyasamy/practice/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Gayathri-Periyasamy/practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Gayathri-Periyasamy/practice/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Gayathri-Periyasamy/practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Gayathri-Periyasamy/practice/tree/master/0326-power-of-three) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1258-article-views-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Gayathri-Periyasamy/practice/tree/master/1827-invalid-tweets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gayathri-Periyasamy/practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
