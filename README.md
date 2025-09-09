@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Gayathri-Periyasamy/practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Gayathri-Periyasamy/practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0029-divide-two-integers) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Gayathri-Periyasamy/practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gayathri-Periyasamy/practice/tree/master/0342-power-of-four) |
 ## Tree
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gayathri-Periyasamy/practice/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Gayathri-Periyasamy/practice/tree/master/1791-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
