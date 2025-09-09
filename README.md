@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1319-unique-number-of-occurrences) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Gayathri-Periyasamy/practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Gayathri-Periyasamy/practice/tree/master/0459-repeated-substring-pattern) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Gayathri-Periyasamy/practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3396-valid-word](https://github.com/Gayathri-Periyasamy/practice/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
