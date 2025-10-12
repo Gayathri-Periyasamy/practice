@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Gayathri-Periyasamy/practice/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Gayathri-Periyasamy/practice/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Gayathri-Periyasamy/practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gayathri-Periyasamy/practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Gayathri-Periyasamy/practice/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
