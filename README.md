@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Gayathri-Periyasamy/practice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Gayathri-Periyasamy/practice/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/Gayathri-Periyasamy/practice/tree/master/0184-department-highest-salary) |
 | [0595-big-countries](https://github.com/Gayathri-Periyasamy/practice/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Gayathri-Periyasamy/practice/tree/master/1301-reformat-department-table) |
