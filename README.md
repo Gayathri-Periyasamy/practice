@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0595-big-countries](https://github.com/Gayathri-Periyasamy/practice/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/1258-article-views-i) |
+| [1301-reformat-department-table](https://github.com/Gayathri-Periyasamy/practice/tree/master/1301-reformat-department-table) |
 | [1338-queries-quality-and-percentage](https://github.com/Gayathri-Periyasamy/practice/tree/master/1338-queries-quality-and-percentage) |
 | [1827-invalid-tweets](https://github.com/Gayathri-Periyasamy/practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Gayathri-Periyasamy/practice/tree/master/1908-recyclable-and-low-fat-products) |
