@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Gayathri-Periyasamy/practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Gayathri-Periyasamy/practice/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathri-Periyasamy/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Gayathri-Periyasamy/practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Gayathri-Periyasamy/practice/tree/master/0238-product-of-array-except-self) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gayathri-Periyasamy/practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Gayathri-Periyasamy/practice/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gayathri-Periyasamy/practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Gayathri-Periyasamy/practice/tree/master/0206-reverse-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
