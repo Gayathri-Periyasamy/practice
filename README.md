@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Gayathri-Periyasamy/practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Gayathri-Periyasamy/practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Gayathri-Periyasamy/practice/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/Gayathri-Periyasamy/practice/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Gayathri-Periyasamy/practice/tree/master/1301-reformat-department-table) |
 | [1338-queries-quality-and-percentage](https://github.com/Gayathri-Periyasamy/practice/tree/master/1338-queries-quality-and-percentage) |
