@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Gayathri-Periyasamy/practice/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Gayathri-Periyasamy/practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/1068-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Gayathri-Periyasamy/practice/tree/master/1301-reformat-department-table) |
 | [1338-queries-quality-and-percentage](https://github.com/Gayathri-Periyasamy/practice/tree/master/1338-queries-quality-and-percentage) |
