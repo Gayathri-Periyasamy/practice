@@ -1,0 +1,8 @@
+select MAX(num) as num
+from mynumbers n
+where num IN (
+    select num
+    from mynumbers
+    group by num
+    having count(*)=1
+)
