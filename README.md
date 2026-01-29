@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathri-Periyasamy/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gayathri-Periyasamy/practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Gayathri-Periyasamy/practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathri-Periyasamy/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
