@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0509-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gayathri-Periyasamy/practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
