@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0509-fibonacci-number) |
+| [0858-mirror-reflection](https://github.com/Gayathri-Periyasamy/practice/tree/master/0858-mirror-reflection) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gayathri-Periyasamy/practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/Gayathri-Periyasamy/practice/tree/master/0858-mirror-reflection) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Gayathri-Periyasamy/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Bit Manipulation
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Gayathri-Periyasamy/practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/Gayathri-Periyasamy/practice/tree/master/0858-mirror-reflection) |
 | [2491-smallest-even-multiple](https://github.com/Gayathri-Periyasamy/practice/tree/master/2491-smallest-even-multiple) |
 ## Divide and Conquer
 |  |
