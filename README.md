@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Gayathri-Periyasamy/practice/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1319-unique-number-of-occurrences) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [1319-unique-number-of-occurrences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gayathri-Periyasamy/practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/Gayathri-Periyasamy/practice/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gayathri-Periyasamy/practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/Gayathri-Periyasamy/practice/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [2491-smallest-even-multiple](https://github.com/Gayathri-Periyasamy/practice/tree/master/2491-smallest-even-multiple) |
 ## Divide and Conquer
 |  |
@@ -461,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Gayathri-Periyasamy/practice/tree/master/0204-count-primes) |
+## Union-Find
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
