@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
+| [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Gayathri-Periyasamy/practice/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Gayathri-Periyasamy/practice/tree/master/0657-robot-return-to-origin) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
+| [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
 ## Greedy
 |  |
 | ------- |
