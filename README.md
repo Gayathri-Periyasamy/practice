@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/Gayathri-Periyasamy/practice/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/Gayathri-Periyasamy/practice/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Gayathri-Periyasamy/practice/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Gayathri-Periyasamy/practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Gayathri-Periyasamy/practice/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Gayathri-Periyasamy/practice/tree/master/1795-rearrange-products-table) |
 | [1827-invalid-tweets](https://github.com/Gayathri-Periyasamy/practice/tree/master/1827-invalid-tweets) |
