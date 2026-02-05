@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/Gayathri-Periyasamy/practice/tree/master/1890-the-latest-login-in-2020) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Gayathri-Periyasamy/practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/Gayathri-Periyasamy/practice/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Gayathri-Periyasamy/practice/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Gayathri-Periyasamy/practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/Gayathri-Periyasamy/practice/tree/master/3436-find-valid-emails) |
 | [3570-find-books-with-no-available-copies](https://github.com/Gayathri-Periyasamy/practice/tree/master/3570-find-books-with-no-available-copies) |
