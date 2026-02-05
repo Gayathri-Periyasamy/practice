@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Gayathri-Periyasamy/practice/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Gayathri-Periyasamy/practice/tree/master/1795-rearrange-products-table) |
 | [1827-invalid-tweets](https://github.com/Gayathri-Periyasamy/practice/tree/master/1827-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/Gayathri-Periyasamy/practice/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Gayathri-Periyasamy/practice/tree/master/1890-the-latest-login-in-2020) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Gayathri-Periyasamy/practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/Gayathri-Periyasamy/practice/tree/master/1965-employees-with-missing-information) |
