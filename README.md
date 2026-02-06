@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Gayathri-Periyasamy/practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Gayathri-Periyasamy/practice/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Gayathri-Periyasamy/practice/tree/master/0349-intersection-of-two-arrays) |
+| [0697-degree-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0697-degree-of-an-array) |
 | [0890-lemonade-change](https://github.com/Gayathri-Periyasamy/practice/tree/master/0890-lemonade-change) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Gayathri-Periyasamy/practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
+| [0697-degree-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0697-degree-of-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [1319-unique-number-of-occurrences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1319-unique-number-of-occurrences) |
