@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Gayathri-Periyasamy/practice/tree/master/0459-repeated-substring-pattern) |
+| [0504-base-7](https://github.com/Gayathri-Periyasamy/practice/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Gayathri-Periyasamy/practice/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gayathri-Periyasamy/practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Gayathri-Periyasamy/practice/tree/master/0657-robot-return-to-origin) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Gayathri-Periyasamy/practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Gayathri-Periyasamy/practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0509-fibonacci-number) |
 | [0858-mirror-reflection](https://github.com/Gayathri-Periyasamy/practice/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/0866-prime-palindrome) |
