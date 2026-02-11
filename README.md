@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Gayathri-Periyasamy/practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0728-self-dividing-numbers) |
 | [0858-mirror-reflection](https://github.com/Gayathri-Periyasamy/practice/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
