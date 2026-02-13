@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0697-degree-of-an-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gayathri-Periyasamy/practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0804-unique-morse-code-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Gayathri-Periyasamy/practice/tree/master/0890-lemonade-change) |
@@ -170,12 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gayathri-Periyasamy/practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gayathri-Periyasamy/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gayathri-Periyasamy/practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Math
 |  |
 | ------- |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gayathri-Periyasamy/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Gayathri-Periyasamy/practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Gayathri-Periyasamy/practice/tree/master/0367-valid-perfect-square) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gayathri-Periyasamy/practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -549,4 +553,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gayathri-Periyasamy/practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gayathri-Periyasamy/practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
