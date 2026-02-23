@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/0402-remove-k-digits) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Gayathri-Periyasamy/practice/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/Gayathri-Periyasamy/practice/tree/master/0463-island-perimeter) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
