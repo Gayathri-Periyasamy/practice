@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Gayathri-Periyasamy/practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gayathri-Periyasamy/practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Gayathri-Periyasamy/practice/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gayathri-Periyasamy/practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Gayathri-Periyasamy/practice/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/0804-unique-morse-code-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Gayathri-Periyasamy/practice/tree/master/1021-remove-outermost-parentheses) |
