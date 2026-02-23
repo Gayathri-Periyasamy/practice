@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0976-largest-perimeter-triangle) |
 | [0997-find-the-town-judge](https://github.com/Gayathri-Periyasamy/practice/tree/master/0997-find-the-town-judge) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Gayathri-Periyasamy/practice/tree/master/1051-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/Gayathri-Periyasamy/practice/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0976-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Gayathri-Periyasamy/practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Gayathri-Periyasamy/practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/Gayathri-Periyasamy/practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Brainteaser
 |  |
