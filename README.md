@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Gayathri-Periyasamy/practice/tree/master/0404-sum-of-left-leaves) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Gayathri-Periyasamy/practice/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Gayathri-Periyasamy/practice/tree/master/0463-island-perimeter) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/Gayathri-Periyasamy/practice/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Gayathri-Periyasamy/practice/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Gayathri-Periyasamy/practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
 ## Database
 |  |
