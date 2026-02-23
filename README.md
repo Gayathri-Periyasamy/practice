@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Gayathri-Periyasamy/practice/tree/master/0404-sum-of-left-leaves) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Gayathri-Periyasamy/practice/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Gayathri-Periyasamy/practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Gayathri-Periyasamy/practice/tree/master/0938-range-sum-of-bst) |
 ## Database
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Gayathri-Periyasamy/practice/tree/master/0938-range-sum-of-bst) |
 ## Enumeration
 |  |
