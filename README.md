@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/Gayathri-Periyasamy/practice/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/0804-unique-morse-code-words) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gayathri-Periyasamy/practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Gayathri-Periyasamy/practice/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0696-count-binary-substrings) |
+| [0771-jewels-and-stones](https://github.com/Gayathri-Periyasamy/practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/0804-unique-morse-code-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Gayathri-Periyasamy/practice/tree/master/1021-remove-outermost-parentheses) |
