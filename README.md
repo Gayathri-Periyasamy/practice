@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0976-largest-perimeter-triangle) |
 | [0997-find-the-town-judge](https://github.com/Gayathri-Periyasamy/practice/tree/master/0997-find-the-town-judge) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/Gayathri-Periyasamy/practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Gayathri-Periyasamy/practice/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gayathri-Periyasamy/practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Gayathri-Periyasamy/practice/tree/master/1293-three-consecutive-odds) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Gayathri-Periyasamy/practice/tree/master/1046-last-stone-weight) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
