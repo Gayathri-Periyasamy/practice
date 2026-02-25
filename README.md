@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1528-shuffle-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1528-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/Gayathri-Periyasamy/practice/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Gayathri-Periyasamy/practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Gayathri-Periyasamy/practice/tree/master/1108-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [1447-simplified-fractions](https://github.com/Gayathri-Periyasamy/practice/tree/master/1447-simplified-fractions) |
+| [1528-shuffle-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1528-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gayathri-Periyasamy/practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Gayathri-Periyasamy/practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
