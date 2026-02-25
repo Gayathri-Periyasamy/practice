@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Gayathri-Periyasamy/practice/tree/master/0463-island-perimeter) |
+| [0500-keyboard-row](https://github.com/Gayathri-Periyasamy/practice/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0682-baseball-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Gayathri-Periyasamy/practice/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Gayathri-Periyasamy/practice/tree/master/0771-jewels-and-stones) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Gayathri-Periyasamy/practice/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Gayathri-Periyasamy/practice/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Gayathri-Periyasamy/practice/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Gayathri-Periyasamy/practice/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gayathri-Periyasamy/practice/tree/master/0557-reverse-words-in-a-string-iii) |
