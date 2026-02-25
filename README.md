@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Gayathri-Periyasamy/practice/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1332-remove-palindromic-subsequences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Gayathri-Periyasamy/practice/tree/master/1108-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Gayathri-Periyasamy/practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1332-remove-palindromic-subsequences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1332-remove-palindromic-subsequences) |
 | [1447-simplified-fractions](https://github.com/Gayathri-Periyasamy/practice/tree/master/1447-simplified-fractions) |
 | [1528-shuffle-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1528-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gayathri-Periyasamy/practice/tree/master/1960-check-if-the-sentence-is-pangram) |
