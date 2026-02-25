@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Gayathri-Periyasamy/practice/tree/master/0867-transpose-matrix) |
 | [0890-lemonade-change](https://github.com/Gayathri-Periyasamy/practice/tree/master/0890-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/Gayathri-Periyasamy/practice/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Gayathri-Periyasamy/practice/tree/master/0942-di-string-match) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Gayathri-Periyasamy/practice/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Gayathri-Periyasamy/practice/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Gayathri-Periyasamy/practice/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/Gayathri-Periyasamy/practice/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0976-largest-perimeter-triangle) |
