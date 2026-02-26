@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gayathri-Periyasamy/practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1528-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/Gayathri-Periyasamy/practice/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1950-sign-of-the-product-of-an-array) |
