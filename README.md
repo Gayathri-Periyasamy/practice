@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Gayathri-Periyasamy/practice/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/Gayathri-Periyasamy/practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0697-degree-of-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gayathri-Periyasamy/practice/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Gayathri-Periyasamy/practice/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Gayathri-Periyasamy/practice/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Gayathri-Periyasamy/practice/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/0804-unique-morse-code-words) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Gayathri-Periyasamy/practice/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Gayathri-Periyasamy/practice/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Gayathri-Periyasamy/practice/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Gayathri-Periyasamy/practice/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Gayathri-Periyasamy/practice/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
