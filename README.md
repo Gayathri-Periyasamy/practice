@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Gayathri-Periyasamy/practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1332-remove-palindromic-subsequences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1332-remove-palindromic-subsequences) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gayathri-Periyasamy/practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/Gayathri-Periyasamy/practice/tree/master/1447-simplified-fractions) |
 | [1528-shuffle-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1528-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gayathri-Periyasamy/practice/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Gayathri-Periyasamy/practice/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Gayathri-Periyasamy/practice/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gayathri-Periyasamy/practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1610-xor-operation-in-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Gayathri-Periyasamy/practice/tree/master/0867-transpose-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gayathri-Periyasamy/practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
 ## Greedy
