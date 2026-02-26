@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Gayathri-Periyasamy/practice/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/Gayathri-Periyasamy/practice/tree/master/3396-valid-word) |
+| [3813-vowel-consonant-score](https://github.com/Gayathri-Periyasamy/practice/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gayathri-Periyasamy/practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
+| [3813-vowel-consonant-score](https://github.com/Gayathri-Periyasamy/practice/tree/master/3813-vowel-consonant-score) |
 ## Greedy
 |  |
 | ------- |
