@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Gayathri-Periyasamy/practice/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/Gayathri-Periyasamy/practice/tree/master/3396-valid-word) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3798-largest-even-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/Gayathri-Periyasamy/practice/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Gayathri-Periyasamy/practice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Geometry
 |  |
 | ------- |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Gayathri-Periyasamy/practice/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Gayathri-Periyasamy/practice/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -686,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Gayathri-Periyasamy/practice/tree/master/1603-design-parking-system) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
