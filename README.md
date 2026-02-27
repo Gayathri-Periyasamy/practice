@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Gayathri-Periyasamy/practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1332-remove-palindromic-subsequences](https://github.com/Gayathri-Periyasamy/practice/tree/master/1332-remove-palindromic-subsequences) |
+| [1360-number-of-days-between-two-dates](https://github.com/Gayathri-Periyasamy/practice/tree/master/1360-number-of-days-between-two-dates) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gayathri-Periyasamy/practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/Gayathri-Periyasamy/practice/tree/master/1447-simplified-fractions) |
 | [1528-shuffle-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1528-shuffle-string) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Gayathri-Periyasamy/practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Gayathri-Periyasamy/practice/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1323-maximum-69-number) |
+| [1360-number-of-days-between-two-dates](https://github.com/Gayathri-Periyasamy/practice/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/Gayathri-Periyasamy/practice/tree/master/1399-count-largest-group) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gayathri-Periyasamy/practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
