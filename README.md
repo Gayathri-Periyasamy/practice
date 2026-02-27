@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gayathri-Periyasamy/practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Gayathri-Periyasamy/practice/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gayathri-Periyasamy/practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/Gayathri-Periyasamy/practice/tree/master/1447-simplified-fractions) |
 | [1528-shuffle-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gayathri-Periyasamy/practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gayathri-Periyasamy/practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Gayathri-Periyasamy/practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
