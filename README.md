@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gayathri-Periyasamy/practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gayathri-Periyasamy/practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Gayathri-Periyasamy/practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1656-design-an-ordered-stream](https://github.com/Gayathri-Periyasamy/practice/tree/master/1656-design-an-ordered-stream) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gayathri-Periyasamy/practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Gayathri-Periyasamy/practice/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Gayathri-Periyasamy/practice/tree/master/1816-truncate-sentence) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/Gayathri-Periyasamy/practice/tree/master/1399-count-largest-group) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gayathri-Periyasamy/practice/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1656-design-an-ordered-stream](https://github.com/Gayathri-Periyasamy/practice/tree/master/1656-design-an-ordered-stream) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gayathri-Periyasamy/practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -694,8 +696,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Gayathri-Periyasamy/practice/tree/master/1603-design-parking-system) |
+| [1656-design-an-ordered-stream](https://github.com/Gayathri-Periyasamy/practice/tree/master/1656-design-an-ordered-stream) |
 ## Ordered Set
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/Gayathri-Periyasamy/practice/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
