@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/Gayathri-Periyasamy/practice/tree/master/0812-largest-triangle-area) |
+| [0821-shortest-distance-to-a-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Gayathri-Periyasamy/practice/tree/master/0867-transpose-matrix) |
 | [0890-lemonade-change](https://github.com/Gayathri-Periyasamy/practice/tree/master/0890-lemonade-change) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gayathri-Periyasamy/practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Gayathri-Periyasamy/practice/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Gayathri-Periyasamy/practice/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Gayathri-Periyasamy/practice/tree/master/0905-sort-array-by-parity) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gayathri-Periyasamy/practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/Gayathri-Periyasamy/practice/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Gayathri-Periyasamy/practice/tree/master/1021-remove-outermost-parentheses) |
