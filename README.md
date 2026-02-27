@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Gayathri-Periyasamy/practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Gayathri-Periyasamy/practice/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gayathri-Periyasamy/practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1603-design-parking-system](https://github.com/Gayathri-Periyasamy/practice/tree/master/1603-design-parking-system) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gayathri-Periyasamy/practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1603-design-parking-system](https://github.com/Gayathri-Periyasamy/practice/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -675,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Gayathri-Periyasamy/practice/tree/master/0997-find-the-town-judge) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Gayathri-Periyasamy/practice/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
