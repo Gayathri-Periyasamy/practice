@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [0976-largest-perimeter-triangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0976-largest-perimeter-triangle) |
 | [0997-find-the-town-judge](https://github.com/Gayathri-Periyasamy/practice/tree/master/0997-find-the-town-judge) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Gayathri-Periyasamy/practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Gayathri-Periyasamy/practice/tree/master/1051-height-checker) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Gayathri-Periyasamy/practice/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0976-largest-perimeter-triangle) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1323-maximum-69-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1323-maximum-69-number) |
 ## Prefix Sum
 |  |
