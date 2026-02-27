@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Gayathri-Periyasamy/practice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3833-count-dominant-indices](https://github.com/Gayathri-Periyasamy/practice/tree/master/3833-count-dominant-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Gayathri-Periyasamy/practice/tree/master/0204-count-primes) |
+| [3833-count-dominant-indices](https://github.com/Gayathri-Periyasamy/practice/tree/master/3833-count-dominant-indices) |
 ## Union-Find
 |  |
 | ------- |
