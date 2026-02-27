@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Gayathri-Periyasamy/practice/tree/master/0938-range-sum-of-bst) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Gayathri-Periyasamy/practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/Gayathri-Periyasamy/practice/tree/master/0938-range-sum-of-bst) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Gayathri-Periyasamy/practice/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Gayathri-Periyasamy/practice/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Gayathri-Periyasamy/practice/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Gayathri-Periyasamy/practice/tree/master/0938-range-sum-of-bst) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gayathri-Periyasamy/practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Database
 |  |
 | ------- |
