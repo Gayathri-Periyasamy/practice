@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gayathri-Periyasamy/practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Gayathri-Periyasamy/practice/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Gayathri-Periyasamy/practice/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Gayathri-Periyasamy/practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Gayathri-Periyasamy/practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1603-design-parking-system](https://github.com/Gayathri-Periyasamy/practice/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Gayathri-Periyasamy/practice/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
