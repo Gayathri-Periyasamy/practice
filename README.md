@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Gayathri-Periyasamy/practice/tree/master/0997-find-the-town-judge) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1037-valid-boomerang](https://github.com/Gayathri-Periyasamy/practice/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/Gayathri-Periyasamy/practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Gayathri-Periyasamy/practice/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/1200-minimum-absolute-difference) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gayathri-Periyasamy/practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Gayathri-Periyasamy/practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [0976-largest-perimeter-triangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0976-largest-perimeter-triangle) |
+| [1037-valid-boomerang](https://github.com/Gayathri-Periyasamy/practice/tree/master/1037-valid-boomerang) |
 | [1185-day-of-the-week](https://github.com/Gayathri-Periyasamy/practice/tree/master/1185-day-of-the-week) |
 | [1260-day-of-the-year](https://github.com/Gayathri-Periyasamy/practice/tree/master/1260-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gayathri-Periyasamy/practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Gayathri-Periyasamy/practice/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/Gayathri-Periyasamy/practice/tree/master/0858-mirror-reflection) |
+| [1037-valid-boomerang](https://github.com/Gayathri-Periyasamy/practice/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gayathri-Periyasamy/practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Gayathri-Periyasamy/practice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Bit Manipulation
