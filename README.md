@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Gayathri-Periyasamy/practice/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Gayathri-Periyasamy/practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0697-degree-of-an-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Gayathri-Periyasamy/practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Gayathri-Periyasamy/practice/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/Gayathri-Periyasamy/practice/tree/master/0858-mirror-reflection) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gayathri-Periyasamy/practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gayathri-Periyasamy/practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Gayathri-Periyasamy/practice/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Gayathri-Periyasamy/practice/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Gayathri-Periyasamy/practice/tree/master/0917-boats-to-save-people) |
