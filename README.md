@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Gayathri-Periyasamy/practice/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Gayathri-Periyasamy/practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Gayathri-Periyasamy/practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gayathri-Periyasamy/practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/Gayathri-Periyasamy/practice/tree/master/2752-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gayathri-Periyasamy/practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Gayathri-Periyasamy/practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Geometry
