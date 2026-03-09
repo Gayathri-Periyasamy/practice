@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Gayathri-Periyasamy/practice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3668-restore-finishing-order](https://github.com/Gayathri-Periyasamy/practice/tree/master/3668-restore-finishing-order) |
 | [3833-count-dominant-indices](https://github.com/Gayathri-Periyasamy/practice/tree/master/3833-count-dominant-indices) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Gayathri-Periyasamy/practice/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gayathri-Periyasamy/practice/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3668-restore-finishing-order](https://github.com/Gayathri-Periyasamy/practice/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
