@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gayathri-Periyasamy/practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gayathri-Periyasamy/practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Gayathri-Periyasamy/practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Gayathri-Periyasamy/practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gayathri-Periyasamy/practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Gayathri-Periyasamy/practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gayathri-Periyasamy/practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Gayathri-Periyasamy/practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gayathri-Periyasamy/practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Gayathri-Periyasamy/practice/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1323-maximum-69-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1323-maximum-69-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gayathri-Periyasamy/practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/Gayathri-Periyasamy/practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gayathri-Periyasamy/practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Brainteaser
 |  |
 | ------- |
