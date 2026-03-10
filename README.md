@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Gayathri-Periyasamy/practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Gayathri-Periyasamy/practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2315-count-asterisks](https://github.com/Gayathri-Periyasamy/practice/tree/master/2315-count-asterisks) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/3194-find-words-containing-character) |
