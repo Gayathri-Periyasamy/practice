@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/3194-find-words-containing-character) |
+| [3280-convert-date-to-binary](https://github.com/Gayathri-Periyasamy/practice/tree/master/3280-convert-date-to-binary) |
 | [3312-number-of-changing-keys](https://github.com/Gayathri-Periyasamy/practice/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/Gayathri-Periyasamy/practice/tree/master/3396-valid-word) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Gayathri-Periyasamy/practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Gayathri-Periyasamy/practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gayathri-Periyasamy/practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/Gayathri-Periyasamy/practice/tree/master/3280-convert-date-to-binary) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Gayathri-Periyasamy/practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Geometry
