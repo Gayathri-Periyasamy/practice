@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Gayathri-Periyasamy/practice/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/Gayathri-Periyasamy/practice/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Gayathri-Periyasamy/practice/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gayathri-Periyasamy/practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gayathri-Periyasamy/practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Gayathri-Periyasamy/practice/tree/master/0204-count-primes) |
+| [1534-count-good-triplets](https://github.com/Gayathri-Periyasamy/practice/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gayathri-Periyasamy/practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3833-count-dominant-indices](https://github.com/Gayathri-Periyasamy/practice/tree/master/3833-count-dominant-indices) |
 ## Union-Find
