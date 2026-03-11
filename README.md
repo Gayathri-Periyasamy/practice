@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2315-count-asterisks](https://github.com/Gayathri-Periyasamy/practice/tree/master/2315-count-asterisks) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Gayathri-Periyasamy/practice/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2810-faulty-keyboard](https://github.com/Gayathri-Periyasamy/practice/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Gayathri-Periyasamy/practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3174-clear-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/Gayathri-Periyasamy/practice/tree/master/3194-find-words-containing-character) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gayathri-Periyasamy/practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2810-faulty-keyboard](https://github.com/Gayathri-Periyasamy/practice/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Gayathri-Periyasamy/practice/tree/master/3174-clear-digits) |
 | [3226-minimum-number-game](https://github.com/Gayathri-Periyasamy/practice/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Gayathri-Periyasamy/practice/tree/master/3379-transformed-array) |
